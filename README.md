@@ -37,7 +37,7 @@ healthcare-qa-pipeline/
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/yourusername/healthcare-qa-pipeline.git
+git clone https://github.com/kabsth/healthcare-qa-pipeline.git
 cd healthcare-qa-pipeline
 2. Install Python dependencies:
 pip install -r requirements.txt
