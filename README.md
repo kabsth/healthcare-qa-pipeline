@@ -28,10 +28,15 @@ It performs **data validation, anomaly detection, and reporting** on sample heal
 healthcare-qa-pipeline/
 
 ├── README.md
+
 ├── data/ # CSV files: patients, visits, claims
+
 ├── sql/ # SQL scripts: create tables, load data, QA queries
+
 ├── scripts/ # Python scripts: data validation, report generation
+
 ├── dashboards/ # Jupyter Notebook dashboard
+
 ├── requirements.txt
 
 ---
