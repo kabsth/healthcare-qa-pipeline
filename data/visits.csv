@@ -1,0 +1,4 @@
+visit_id,patient_id,visit_date,doctor_id,diagnosis_code
+101,1,2025-01-10,201,D01
+102,2,2025-01-12,202,D02
+103,3,2025-01-15,203,D03

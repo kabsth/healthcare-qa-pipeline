@@ -1,0 +1,4 @@
+patient_id,first_name,last_name,dob,gender
+1,John,Doe,1980-01-15,M
+2,Jane,Smith,1990-06-21,F
+3,Bob,Johnson,1975-09-30,M

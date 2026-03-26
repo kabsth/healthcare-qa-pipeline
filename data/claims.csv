@@ -1,0 +1,4 @@
+claim_id,visit_id,claim_amount,claim_status
+1001,101,250.00,Approved
+1002,102,-100.00,Pending
+1003,103,300.00,Denied
