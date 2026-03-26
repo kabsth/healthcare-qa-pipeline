@@ -28,10 +28,15 @@ It performs **data validation, anomaly detection, and reporting** on sample heal
 healthcare-qa-pipeline/
 
 ├── README.md
+
 ├── data/ # CSV files: patients, visits, claims
+
 ├── sql/ # SQL scripts: create tables, load data, QA queries
+
 ├── scripts/ # Python scripts: data validation, report generation
+
 ├── dashboards/ # Jupyter Notebook dashboard
+
 ├── requirements.txt
 
 ---
@@ -43,15 +48,17 @@ cd healthcare-qa-pipeline
 
 2. Install Python dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run Python QA scripts:
 
-python scripts/data_validation.py
+   python scripts/data_validation.py
 
-python scripts/qa_report_generator.py
+   python scripts/qa_report_generator.py
 
-4. Open dashboards/qa_dashboard.ipynb in Jupyter Notebook to visualize results.
+4. Open dashboards
+
+   qa_dashboard.ipynb in Jupyter Notebook to visualize results.
 
 ## Sample Output
 Console: Shows negative claims, missing patient IDs, and duplicate claims
